@@ -1,0 +1,4 @@
+(executable
+ (public_name timebox)
+ (name main)
+ (libraries minttea timebox))
